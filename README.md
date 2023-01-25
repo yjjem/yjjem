@@ -4,13 +4,16 @@ Hi   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 I'm Junior IOS Developer
 ------------------------
 
-I've started learning Swift since August 16th 2022
-
 * 🌍  I'm based in South Korea
 * ✉️  You can contact me at [marksim0606@gmail.com](mailto:marksim0606@gmail.com)
 * 🚀  I'm currently working on [TODO app](http://github.com/yjjem/ios-project-manager/tree/step-2)
 * 🧠  I'm learning at [Yagom-Academy](https://github.com/yagom-academy)
 * 🤝  I'm open to collaborating on Swift
+
+### My Activities
+|Name|start / end | period |
+|:---|:---|---|
+|**🐻‍❄️ Yagom-Academy 7th**| Aug 16th 2022 ~ Feb 10th 2022| 6 month|
 
 ### Skills
 
