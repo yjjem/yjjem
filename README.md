@@ -9,13 +9,13 @@ I'm Junior IOS Developer
 * 🌍  I'm based in South Korea
 * ✉️  You can contact me at [marksim0606@gmail.com](mailto:marksim0606@gmail.com)
 * 🚀  I'm currently working on [TODO app](http://github.com/yjjem/ios-project-manager/tree/step-2)
-* 🧠  I'm learning at [Yagom-Academy](https://github.com/yagom-academy)
+* 🧠  I'm studying at [Yagom-Academy](https://github.com/yagom-academy)
 * 🤝  I'm open to collaborating on Swift
 
 ### My Activities
 |Name|start / end | period |
-|:---|:---|---|
-|**🐻‍❄️ Yagom-Academy 7th**| Aug 16th 2022 ~ Feb 10th 2022| 6 month|
+|:---|:---|:---|
+|**🐻‍❄️ [Yagom-Academy](https://github.com/yagom-academy) 7th**| Aug 16th 2022 ~ Feb 10th 2022| 6 month|
 
 ### Skills
 
