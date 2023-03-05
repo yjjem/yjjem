@@ -7,8 +7,7 @@ Hi My name is Jeremy
 
 
 * 🌍  I'm based in South Korea
-* ✉️  You can contact me at [marksim0606@gmail.com](mailto:marksim0606@gmail.com)
-* 🚀  I'm currently working on [TODO app](http://github.com/yjjem/ios-project-manager/tree/step-2)
+* ✉️  You can contact me at [marksim0606@gmail.com](mailto:marksim0606@gmail.com)****
 * 🧠  I'm studying at [Yagom-Academy](https://github.com/yagom-academy)
 * 🤝  I'm open to collaborating on Swift
 
