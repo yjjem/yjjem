@@ -1,23 +1,21 @@
 Hi My name is Jeremy
 ==============================================================================================================================
 
-### I'm Junior IOS Developer
+<img src="https://user-images.githubusercontent.com/88357373/224708390-91e68029-95a0-4175-9186-b6b733d29584.JPG" height="500"/>
 
-
-
+### I'm Junior IOS Engineer
 
 * 🌍  I'm based in South Korea
-* ✉️  You can contact me at [marksim0606@gmail.com](mailto:marksim0606@gmail.com)****
+* ✉️  You can contact me at [marksim0606@gmail.com](mailto:marksim0606@gmail.com)
 * 🧠  I'm studying at [Yagom-Academy](https://github.com/yagom-academy)
 * 🤝  I'm open to collaborating on Swift
 
 ### My Activities
-|Name|start / end | period |
-|:---|:---|:---|
-|**🐻‍❄️ [Yagom-Academy](https://github.com/yagom-academy) 7th**| Aug 16th 2022 ~ Feb 10th 2022| 6 month|
+|Name|period |
+|:---|:---|
+|**🐻‍❄️ [Yagom-Academy](https://github.com/yagom-academy) 7th**| Aug 16th 2022 ~ Feb 10th 2022 ( 6 month )
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
