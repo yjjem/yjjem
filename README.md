@@ -1,10 +1,10 @@
-Hi My name is Jeremy
-==============================================================================================================================
+<!-- ![github-header-image](https://user-images.githubusercontent.com/88357373/224712092-5521ee76-4d90-483f-a354-230fb9f0c761.png) -->
+<!-- ![github-header-image (1)](https://user-images.githubusercontent.com/88357373/224712247-ee2d7ad7-59d9-47b8-acde-a7012f9a7b68.png) -->
+<img src="https://user-images.githubusercontent.com/88357373/224712380-02da5ddf-068a-4d93-bd7d-8fb2810cc2e4.png" width="700"/>
 
-<img src="https://user-images.githubusercontent.com/88357373/224708390-91e68029-95a0-4175-9186-b6b733d29584.JPG" height="500"/>
-
+ <img src="https://user-images.githubusercontent.com/88357373/224708390-91e68029-95a0-4175-9186-b6b733d29584.JPG" width="700"/>
+ 
 ### I'm Junior IOS Engineer
-
 * 🌍  I'm based in South Korea
 * ✉️  You can contact me at [marksim0606@gmail.com](mailto:marksim0606@gmail.com)
 * 🧠  I'm studying at [Yagom-Academy](https://github.com/yagom-academy)
