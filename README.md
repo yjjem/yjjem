@@ -3,9 +3,9 @@
  <img src="https://user-images.githubusercontent.com/88357373/224708390-91e68029-95a0-4175-9186-b6b733d29584.JPG" width="700"/>
 
 
- I'm Junior iOS Engineer.
+## I'm Junior iOS Engineer.
 * 🌍  I'm based in South Korea
-* ✉️  You can contact me at [marksim0606@gmail.com](mailto:marksim0606@gmail.com)
+* ✉️  You can contact me at [remypark@gmail.com](mailto:remypark@gmail.com)
 * 🧠  I'm studying at [Yagom-Academy](https://github.com/yagom-academy)
 * 🤝  I'm open to collaborating on Swift
 
