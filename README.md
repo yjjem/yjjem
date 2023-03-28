@@ -1,12 +1,9 @@
-# Hi 🤝 My name is Remy
-<!--  ![banner](https://user-images.githubusercontent.com/88357373/226180408-19a53065-4c93-4c02-b942-5a88c5f35445.png) -->
- <img src="https://user-images.githubusercontent.com/88357373/224708390-91e68029-95a0-4175-9186-b6b733d29584.JPG" width="700"/>
+# 
+ <img src="https://user-images.githubusercontent.com/88357373/224708390-91e68029-95a0-4175-9186-b6b733d29584.JPG" width="400"/>
 
-
-## I'm Junior iOS Engineer.
+### Junior iOS Engineer.
 * 🌍  I'm based in South Korea
 * ✉️  You can contact me at [remypark@gmail.com](mailto:remypark@gmail.com)
-* 🧠  I'm studying at [Yagom-Academy](https://github.com/yagom-academy)
 * 🤝  I'm open to collaborating on Swift
 
 ### My Activities
