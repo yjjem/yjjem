@@ -3,7 +3,7 @@
 
 ### Junior iOS Engineer.
 * 🌍  I'm based in South Korea
-* ✉️  You can contact me at [remypark@gmail.com](mailto:remypark@kakao.com)
+* ✉️  You can contact me at [remypark@kakao.com](mailto:remypark@kakao.com)
 * 🤝  I'm open to collaborating on Swift
 
 ### My Activities
