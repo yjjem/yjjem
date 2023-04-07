@@ -10,13 +10,3 @@
 |Name|period |
 |:---|:---|
 |**🐻‍❄️ [Yagom-Academy](https://github.com/yagom-academy) 7th**| Aug 16th 2022 ~ Feb 10th 2022 ( 6 month )
-
-### Skills
-
-<p align="left">
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/JeremyPark#5685" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yjjem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
