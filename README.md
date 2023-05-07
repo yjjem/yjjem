@@ -10,3 +10,9 @@
 |Name|period |
 |:---|:---|
 |**🐻‍❄️ [Yagom-Academy](https://github.com/yagom-academy) 7th**| Aug 16th 2022 ~ Feb 10th 2022 ( 6 month )
+
+### Currently Working On
+
+|<img src="https://user-images.githubusercontent.com/88357373/236659649-c7d0a639-b792-4d78-99c0-9fdce3fbdbf2.png" width="120"/>|
+|:-:|
+|[**🔗 TMDB Wiki**](https://github.com/yjjem/TMDB-Wiki/tree/feature/home/home-scene)|
