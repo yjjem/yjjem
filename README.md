@@ -17,6 +17,6 @@
 
 |<img src="https://user-images.githubusercontent.com/88357373/236659649-c7d0a639-b792-4d78-99c0-9fdce3fbdbf2.png" width="120"/>| <img src="https://github.com/yjjem/yjjem/assets/88357373/c396524a-9c79-49fe-8097-161bad58c0d0" width="120"/>|
 |:-:|:-:|
-|[**🔗 TMDB Wiki**](https://github.com/yjjem/TMDB-Wiki/tree/feature/home/home-scene)|[**🔗 Pexels Wiki**](https://github.com/yjjem/Pexels-wiki)|
+|[**🔗 TMDB Wiki**](https://github.com/yjjem/TMDB-Wiki/tree/feature/home/home-scene)|[**🔗 Pexels Wiki**](https://github.com/yjjem/PexelsWiki)|
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjjem&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
