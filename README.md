@@ -11,10 +11,8 @@
 |:---|:---|
 |**🐻‍❄️ [Yagom-Academy](https://github.com/yagom-academy) 7th**| Aug 16th 2022 ~ Feb 10th 2022 ( 6 month )
 
-#
 ### Projects
 
-|<img src="https://user-images.githubusercontent.com/88357373/236659649-c7d0a639-b792-4d78-99c0-9fdce3fbdbf2.png" width="120"/>| <img src="https://github.com/yjjem/yjjem/assets/88357373/c396524a-9c79-49fe-8097-161bad58c0d0" width="120"/>|
+|<img src="https://user-images.githubusercontent.com/88357373/236659649-c7d0a639-b792-4d78-99c0-9fdce3fbdbf2.png" width="120"/>| <img width="120" alt="mac1024" src="https://github.com/user-attachments/assets/f2267bec-842a-4b11-90d3-115bc03e6b00">|
 |:-:|:-:|
 |[**🔗 TMDB Wiki**](https://github.com/yjjem/TMDB-Wiki/tree/feature/home/home-scene)|[**🔗 Pexels Wiki**](https://github.com/yjjem/PexelsWiki)|
-
