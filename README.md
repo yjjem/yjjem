@@ -12,7 +12,9 @@
 
 ### My Projects
 
-| Title                                                                                                                                                                                                                                       | Tech Stack |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------- |
-| **Pexels Wiki**  </br> <a href="https://github.com/yjjem/PexelsWiki"> <img width="150" alt="mac1024" src="https://github.com/user-attachments/assets/f2267bec-842a-4b11-90d3-115bc03e6b00"><a/> </br> <a href='https://github.com/yjjem/PexelsWiki' target="_blank"><img alt='swift' src='https://img.shields.io/badge/Open_Repository-100000?style=flat&logo=swift&logoColor=white&labelColor=0B87FF&color=0B87FF'/></a> </br>    | Clean-Architecture </br> UIKit </br> MVVM </br> Coordinator </br> No third-party | 
-| </br> **TMDB Wiki**  </br> <a href="https://github.com/yjjem/PexelsWiki"> <img src="https://user-images.githubusercontent.com/88357373/236659649-c7d0a639-b792-4d78-99c0-9fdce3fbdbf2.png" width="150"><a/></br> <a href='https://github.com/yjjem/PexelsWiki' target="_blank"><img alt='swift' src='https://img.shields.io/badge/Open_Repository-100000?style=flat&logo=swift&logoColor=white&labelColor=0B87FF&color=0B87FF'/></a> | Updating </br> Updating </br> Updating </br> Updating |
+|**Pexels Wiki**| **TMDB Wiki** |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------- |
+| <a href="https://github.com/yjjem/PexelsWiki"> <img width="150" alt="mac1024" src="https://github.com/user-attachments/assets/f2267bec-842a-4b11-90d3-115bc03e6b00"><a/>  | <a href="https://github.com/yjjem/PexelsWiki"> <img src="https://user-images.githubusercontent.com/88357373/236659649-c7d0a639-b792-4d78-99c0-9fdce3fbdbf2.png" width="150"><a/></br>   | 
+| Clean-Architecture </br> UIKit </br> MVVM </br> Coordinator </br> No third-party |  Updating </br> Updating </br> Updating </br> Updating</br> Updating|
+| </br> <a href='https://github.com/yjjem/PexelsWiki' target="_blank"><img alt='swift' src='https://img.shields.io/badge/📂_Open_Repository-100000?style=flat&labelColor=0B87FF&color=0B87FF'/></a> | </br>  <a href='https://github.com/yjjem/PexelsWiki' target="_blank"><img alt='swift' src='https://img.shields.io/badge/📂_Open_Repository-100000?style=flat&labelColor=0B87FF&color=0B87FF'/></a>|
+
