@@ -3,16 +3,16 @@
 ![Static Badge](https://img.shields.io/badge/Swift-%23f05139) ![Static Badge](https://img.shields.io/badge/UIKit-%23325aa8) ![Static Badge](https://img.shields.io/badge/RxSwift-%23ff4db3) ![Static Badge](https://img.shields.io/badge/Clean_Architecture-%234dff53) 
 
 #
-### Activities
-|Tutle|Period |
+### My Activities
+|Title|Period |
 |:---|:---|
 |**🐻‍❄️ [Yagom-Academy](https://github.com/yagom-academy) 7th**| Aug 16th 2022 ~ Feb 10th 2022 ( 6 month )
 
 #
 
-### Projects
+### My Projects
 
-| App                                                                                                                                                                                                                                        | Tech Stack |
+| Title                                                                                                                                                                                                                                       | Tech Stack |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------- |
-| <a href="https://github.com/yjjem/PexelsWiki"> <img width="150" alt="mac1024" src="https://github.com/user-attachments/assets/f2267bec-842a-4b11-90d3-115bc03e6b00"><a/> </br> <a href='https://github.com/yjjem/PexelsWiki' target="_blank"><img alt='swift' src='https://img.shields.io/badge/Open_Repository-100000?style=flat&logo=swift&logoColor=white&labelColor=0B87FF&color=0B87FF'/></a> </br>    | Clean-Architecture </br> UIKit </br> MVVM </br> Coordinator </br> No third-party | 
-| <a href="https://github.com/yjjem/PexelsWiki"> <img src="https://user-images.githubusercontent.com/88357373/236659649-c7d0a639-b792-4d78-99c0-9fdce3fbdbf2.png" width="150"><a/></br> <a href='https://github.com/yjjem/PexelsWiki' target="_blank"><img alt='swift' src='https://img.shields.io/badge/Open_Repository-100000?style=flat&logo=swift&logoColor=white&labelColor=0B87FF&color=0B87FF'/></a> | Updating </br> Updating </br> Updating </br> Updating |
+| **Pexels Wiki**  </br> <a href="https://github.com/yjjem/PexelsWiki"> <img width="150" alt="mac1024" src="https://github.com/user-attachments/assets/f2267bec-842a-4b11-90d3-115bc03e6b00"><a/> </br> <a href='https://github.com/yjjem/PexelsWiki' target="_blank"><img alt='swift' src='https://img.shields.io/badge/Open_Repository-100000?style=flat&logo=swift&logoColor=white&labelColor=0B87FF&color=0B87FF'/></a> </br>    | Clean-Architecture </br> UIKit </br> MVVM </br> Coordinator </br> No third-party | 
+| </br> **TMDB Wiki**  </br> <a href="https://github.com/yjjem/PexelsWiki"> <img src="https://user-images.githubusercontent.com/88357373/236659649-c7d0a639-b792-4d78-99c0-9fdce3fbdbf2.png" width="150"><a/></br> <a href='https://github.com/yjjem/PexelsWiki' target="_blank"><img alt='swift' src='https://img.shields.io/badge/Open_Repository-100000?style=flat&logo=swift&logoColor=white&labelColor=0B87FF&color=0B87FF'/></a> | Updating </br> Updating </br> Updating </br> Updating |
