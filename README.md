@@ -1,14 +1,17 @@
 ### Junior ~~iOS Engineer~~ 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjjem&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </br>
-![Static Badge](https://img.shields.io/badge/Swift-%23f05139) ![Static Badge](https://img.shields.io/badge/UIKit-%23325aa8) ![Static Badge](https://img.shields.io/badge/RxSwift-%23ff4db3) ![Static Badge](https://img.shields.io/badge/Clean_Architecture-%234dff53) 
+![Static Badge](https://img.shields.io/badge/Swift-%23f05139) ![Static Badge](https://img.shields.io/badge/UIKit-%23325aa8) ![Static Badge](https://img.shields.io/badge/RxSwift-%23ff4db3) ![Static Badge](https://img.shields.io/badge/Clean_Architecture-%234dff53) ![Static Badge](https://img.shields.io/badge/Metal-blue)
 
 #
-### My Activities
+### Activities
 |Title|Period |
 |:---|:---|
 |**🐻‍❄️ [Yagom-Academy](https://github.com/yagom-academy) 7th**| Aug 16th 2022 ~ Feb 10th 2022 ( 6 month )
 
 #
+
+<!--
 
 ### My Projects
 
@@ -18,3 +21,5 @@
 | Clean-Architecture </br> UIKit </br> MVVM </br> Coordinator </br> No third-party |  Updating </br> Updating </br> Updating </br> Updating</br> Updating|
 | </br> <a href='https://github.com/yjjem/PexelsWiki' target="_blank"><img alt='swift' src='https://img.shields.io/badge/📂_Open_Repository-100000?style=flat&labelColor=0B87FF&color=0B87FF'/></a> | </br>  <a href='https://github.com/yjjem/PexelsWiki' target="_blank"><img alt='swift' src='https://img.shields.io/badge/📂_Open_Repository-100000?style=flat&labelColor=0B87FF&color=0B87FF'/></a>|
 
+***
+-->
